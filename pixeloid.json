@@ -1,10 +1,22 @@
 {
   "spec": 1,
-  "name": "Pixeloid font",
-  "previewText": "Pixeloid font for kettu",
+  "name": "Pixeloid",
+  "previewText": "Pixeloid font for Kettu",
   "main": {
+    "ggsans-Regular": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans.ttf",
     "ggsans-Normal": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans.ttf",
+    "ggsans-Medium": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans.ttf",
+    "ggsans-Semibold": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans-Bold.ttf",
     "ggsans-Bold": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans-Bold.ttf",
+    "ggsans-ExtraBold": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans-Bold.ttf",
+
+    "NotoSans-Regular": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans.ttf",
+    "NotoSans-Normal": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans.ttf",
+    "NotoSans-Medium": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans.ttf",
+    "NotoSans-Semibold": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans-Bold.ttf",
+    "NotoSans-Bold": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans-Bold.ttf",
+
+    "SourceCodePro-Regular": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidMono.ttf",
     "SourceCodePro-Semibold": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidMono.ttf"
   }
 }
