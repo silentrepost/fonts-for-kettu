@@ -1,0 +1,10 @@
+{
+  "spec": 1,
+  "name": "Pixeloid font",
+  "previewText": "Pixeloid font for kettu",
+  "main": {
+    "ggsans-Normal": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans.ttf",
+    "ggsans-Bold": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidSans-Bold.ttf",
+    "SourceCodePro-Semibold": "https://github.com/silentrepost/fonts-for-kettu/raw/main/PixeloidMono.ttf"
+  }
+}
